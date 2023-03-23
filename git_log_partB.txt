@@ -1,0 +1,105 @@
+commit eee1784cf9e3eb289d2d009ec2c9ab291815a13e
+Author: aman <amanpaul6666@gmail.com>
+Date:   Wed Mar 22 23:58:21 2023 +0530
+
+    Readding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..a49310e
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Singer
+\ No newline at end of file
+
+commit fc5df25f13063ccbceae95cbbff38c1cde5d5c84
+Author: aman <amanpaul6666@gmail.com>
+Date:   Wed Mar 22 23:52:21 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 32f5c72..e1e3692 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Aman Kumar CSE
+ KFC
+-Titanic
+\ No newline at end of file
++Titanic
++Red
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index a49310e..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Singer
+\ No newline at end of file
+
+commit 2911e77bb7ad375a722c0596d25b6995b832df3d
+Author: aman <amanpaul6666@gmail.com>
+Date:   Wed Mar 22 23:47:52 2023 +0530
+
+    Grad year and future job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..a49310e
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Singer
+\ No newline at end of file
+
+commit 61773cf8dc063542c9ae0a1c34dacce8c37a38d8
+Author: aman <amanpaul6666@gmail.com>
+Date:   Wed Mar 22 23:38:34 2023 +0530
+
+    Added facvorite movie and restaurant
+
+diff --git a/file1.txt b/file1.txt
+index 9ef1ffc..32f5c72 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+-Aman Kumar CSE
+\ No newline at end of file
++Aman Kumar CSE
++KFC
++Titanic
+\ No newline at end of file
+
+commit 0dd19dc784379c0d1ed2e1574b52d778be9c3c6b
+Author: aman <amanpaul6666@gmail.com>
+Date:   Wed Mar 22 23:37:06 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index a31d62e..9ef1ffc 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Aman Kumar 27743
+\ No newline at end of file
++Aman Kumar CSE
+\ No newline at end of file
+
+commit acae74985ca6b1ba4bd389d952d31a39ca7716e0
+Author: aman <amanpaul6666@gmail.com>
+Date:   Wed Mar 22 23:32:31 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..a31d62e
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Aman Kumar 27743
+\ No newline at end of file
